@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\bin\Debug\net8.0\ObjectofYourAffection.exe
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\bin\Debug\net8.0\ObjectofYourAffection.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\bin\Debug\net8.0\ObjectofYourAffection.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\bin\Debug\net8.0\ObjectofYourAffection.dll
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\bin\Debug\net8.0\ObjectofYourAffection.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.dll
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\refint\ObjectofYourAffection.dll
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ObjectofYourAffection.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\ObjectofYourAffection\obj\Debug\net8.0\ref\ObjectofYourAffection.dll
